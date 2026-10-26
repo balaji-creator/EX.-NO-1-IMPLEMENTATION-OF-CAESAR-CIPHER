@@ -52,7 +52,10 @@ void main()
     } 
 }
 ```
-
+```
+Name:BALAJI B
+REG.NO:212225040040
+```
 ## OUTPUT:
 ![alt text](image.png)
 
